@@ -73,19 +73,12 @@ Applied ML           Heart Disease Prediction
 
 ## GitHub Snapshot
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JenilGoti&show_icons=true&theme=default&hide_border=true" alt="Jenil's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JenilGoti&layout=compact&theme=default&hide_border=true" alt="Jenil's top languages" />
-</p>
+Building across AI agents, computer vision, NLP, and applied machine learning.
 
----
+- Main language: Python
+- Focus: LangGraph, RAG, PyTorch, YOLOv8, NLP, Streamlit
+- Best projects: AI Research Agent, Football Player Tracker, Human Action Detection
 
-## What I'm Improving Next
-
-- Adding screenshots, demo GIFs, and short videos to the strongest repositories
-- Making project READMEs more result-oriented with problem, approach, metrics, and demo sections
-- Building more deployed AI apps around agents, RAG, computer vision, and NLP
-- Keeping the profile focused on quality projects instead of listing every repository
 
 ---
 
