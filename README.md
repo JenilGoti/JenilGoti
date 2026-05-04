@@ -1,7 +1,8 @@
-# Hi, I'm Jenil Goti
+# Hi, I'm Jenil Jagdishbhai Goti
 
-AI/ML developer building practical intelligent systems across multi-agent AI, computer vision, NLP, and applied machine learning.
+AI & ML Engineer focused on Agentic AI, LLM Engineering, multi-agent systems, RAG, computer vision, and practical ML deployment.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-jenil--goti.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://jenil-goti.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-JenilGoti-181717?style=for-the-badge&logo=github)](https://github.com/JenilGoti)
 [![Email](https://img.shields.io/badge/Email-jenilgoti421%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenilgoti421@gmail.com)
 
@@ -9,11 +10,12 @@ AI/ML developer building practical intelligent systems across multi-agent AI, co
 
 ## About Me
 
-I like building AI systems that move beyond notebooks: agents that can research and revise, computer vision pipelines that detect and track objects, and NLP models that solve real moderation/classification problems.
+I build AI systems that move beyond notebooks: agents that can research and revise, RAG pipelines that use tools and feedback loops, computer vision systems that detect and track objects, and NLP models for real classification problems.
 
-- Focus areas: Generative AI, multi-agent systems, RAG, computer vision, NLP, and ML deployment
-- Current direction: building stronger end-to-end AI projects with clear demos, metrics, and clean documentation
-- Engineering style: practical, experiment-driven, and focused on turning models into usable applications
+- Currently: M.Sc. Machine Learning and Data Analytics at Hochschule Aalen, Germany
+- Focus areas: Agentic AI, LLMs, LangGraph, LangChain, RAG, computer vision, NLP, and ML deployment
+- Experience: AI/ML engineering, FastAPI model serving, AWS EC2 deployment, React/Next.js web development
+- Portfolio: [jenil-goti.netlify.app](https://jenil-goti.netlify.app/)
 
 ---
 
@@ -58,6 +60,7 @@ I like building AI systems that move beyond notebooks: agents that can research 
 
 | Project | What it demonstrates | Tech |
 |---|---|---|
+| [German Administrative Process Navigator](https://jenil-goti.netlify.app/) | In-progress AI agent for navigating German administrative processes using graph modeling and optimized path discovery | LangGraph, LangChain, Neo4j, Ollama, Knowledge Graph, RAG |
 | [AI Research Agent](https://github.com/JenilGoti/research_agent) | Multi-agent research assistant that searches the web, reads uploaded documents, writes reports, critiques output, and supports human feedback | LangGraph, LangChain, Groq, Qdrant, Streamlit, RAG |
 | [Football Player Tracker](https://github.com/JenilGoti/Football-Player-Tracker.) | End-to-end football video detection and tracking with unique player IDs and deployed Gradio demo. Achieved 84% mAP@50 | YOLOv8, PyTorch, ByteTrack, Roboflow, OpenCV, Gradio |
 | [Human Action Detection](https://github.com/JenilGoti/Human_Action_Detaction) | Transfer-learning classifier for recognizing human actions from images | PyTorch, ResNet18, CNNs, Pandas, Matplotlib |
